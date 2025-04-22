@@ -25,7 +25,7 @@ The system is structured around:
 - **8+ Dimension Tables**: Customer, Product, City, Date, Category, Supplier, Return Reason, Month
 - **4 Aggregate Tables**: Product Performance, Profitability, Inventory Turnover, Returns Analysis
 
-![Star Schema](Star Schema.png)
+![Star Schema](./Star_schema.png)
 
 Key features:
 - **Granular Data**: Daily transactions and snapshots for fine-grained analysis
