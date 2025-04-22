@@ -1,0 +1,501 @@
+return_id,rental_id,product_id,customer_id,date_id,city_id,quantity_returned,reason_for_return
+1,300,193,499,370,6,1,Size Issue
+2,124,144,52,376,7,1,Size Issue
+3,253,215,322,210,10,1,Delivery Delay
+4,339,256,244,474,9,1,Delivery Delay
+5,77,245,392,230,7,2,Damaged
+6,253,176,430,169,4,2,Late Return
+7,283,232,148,151,3,2,Delivery Delay
+8,125,127,154,327,3,2,Late Return
+9,117,436,391,394,3,2,Damaged
+10,445,230,271,449,2,1,Not as Expected
+11,495,236,86,235,4,2,Size Issue
+12,215,87,29,199,7,2,Delivery Delay
+13,499,488,173,332,1,1,Late Return
+14,60,57,55,227,5,1,Late Return
+15,335,139,254,175,6,2,Not as Expected
+16,237,330,269,149,7,1,Delivery Delay
+17,358,455,441,230,3,1,Damaged
+18,287,80,4,326,7,1,Delivery Delay
+19,432,122,202,36,3,1,Size Issue
+20,375,427,114,106,9,2,Damaged
+21,451,420,277,476,6,2,Not as Expected
+22,100,223,29,269,5,2,Damaged
+23,170,296,21,259,8,1,Delivery Delay
+24,400,282,431,59,10,1,Late Return
+25,134,79,287,388,2,2,Size Issue
+26,227,154,33,338,7,2,Late Return
+27,221,468,360,267,6,2,Damaged
+28,316,405,460,486,4,2,Size Issue
+29,455,347,301,419,9,1,Not as Expected
+30,433,23,6,497,4,2,Delivery Delay
+31,64,343,474,326,1,1,Damaged
+32,325,355,423,385,3,1,Delivery Delay
+33,279,381,185,291,2,2,Late Return
+34,142,243,131,57,10,1,Damaged
+35,360,427,309,252,1,2,Delivery Delay
+36,443,251,298,53,6,2,Delivery Delay
+37,24,293,384,19,2,2,Late Return
+38,137,386,349,35,9,2,Not as Expected
+39,498,405,55,75,1,1,Damaged
+40,364,171,113,87,8,1,Damaged
+41,318,402,491,55,4,1,Damaged
+42,323,240,335,280,3,2,Size Issue
+43,355,398,332,486,6,2,Damaged
+44,172,412,204,174,7,1,Damaged
+45,188,456,94,348,10,2,Not as Expected
+46,375,344,487,241,4,2,Not as Expected
+47,311,195,167,332,2,1,Late Return
+48,278,302,362,127,8,2,Size Issue
+49,73,395,114,373,6,1,Damaged
+50,456,25,253,387,9,1,Damaged
+51,422,467,38,414,10,2,Delivery Delay
+52,118,51,405,62,7,1,Not as Expected
+53,85,76,198,90,10,1,Not as Expected
+54,382,500,217,152,7,1,Size Issue
+55,200,189,277,139,3,2,Delivery Delay
+56,100,264,337,283,8,2,Delivery Delay
+57,391,417,322,282,4,1,Delivery Delay
+58,12,217,308,480,9,1,Damaged
+59,468,36,101,179,7,2,Not as Expected
+60,166,69,422,305,10,1,Late Return
+61,34,449,106,296,3,2,Damaged
+62,336,146,273,339,6,2,Not as Expected
+63,396,154,114,173,2,1,Not as Expected
+64,298,109,46,491,7,1,Delivery Delay
+65,64,187,232,31,10,1,Damaged
+66,388,255,118,319,9,1,Damaged
+67,403,406,441,350,5,2,Size Issue
+68,219,20,118,345,7,2,Late Return
+69,19,164,358,2,4,1,Not as Expected
+70,248,100,322,68,6,2,Late Return
+71,342,398,435,26,2,1,Late Return
+72,163,338,45,98,6,2,Not as Expected
+73,169,240,457,458,1,2,Damaged
+74,450,131,295,356,2,2,Damaged
+75,481,249,79,135,5,2,Delivery Delay
+76,389,442,334,408,3,2,Not as Expected
+77,39,275,51,24,5,2,Delivery Delay
+78,222,352,386,433,1,1,Size Issue
+79,404,160,160,211,4,2,Delivery Delay
+80,160,33,112,414,2,2,Damaged
+81,296,424,488,150,8,2,Late Return
+82,260,157,241,387,8,2,Not as Expected
+83,155,445,279,177,1,1,Delivery Delay
+84,359,42,394,110,10,2,Late Return
+85,287,261,163,353,3,1,Damaged
+86,222,149,232,256,5,2,Not as Expected
+87,193,358,415,359,8,2,Late Return
+88,336,390,136,300,4,2,Damaged
+89,285,495,152,356,5,1,Damaged
+90,313,320,114,341,10,2,Late Return
+91,181,90,367,34,8,2,Late Return
+92,93,132,231,494,6,2,Not as Expected
+93,83,288,58,496,2,2,Late Return
+94,58,263,373,97,4,1,Late Return
+95,275,199,444,143,3,1,Size Issue
+96,284,495,305,201,7,2,Size Issue
+97,243,454,231,408,10,1,Delivery Delay
+98,207,293,475,321,1,2,Not as Expected
+99,401,21,350,295,6,2,Size Issue
+100,98,197,291,125,1,1,Late Return
+101,11,315,394,52,7,1,Late Return
+102,228,240,374,32,2,1,Damaged
+103,460,175,325,31,1,2,Size Issue
+104,235,449,323,420,2,1,Size Issue
+105,374,389,493,463,7,1,Not as Expected
+106,22,480,161,234,9,1,Not as Expected
+107,386,270,310,150,4,1,Delivery Delay
+108,153,100,356,234,10,1,Damaged
+109,428,136,262,124,1,2,Not as Expected
+110,455,411,166,60,8,1,Size Issue
+111,319,253,81,172,10,1,Size Issue
+112,84,210,75,210,6,1,Late Return
+113,223,212,328,129,2,2,Late Return
+114,483,200,20,312,5,1,Late Return
+115,200,225,406,484,8,2,Late Return
+116,234,8,20,405,9,2,Size Issue
+117,212,57,376,434,5,1,Late Return
+118,46,462,330,132,6,2,Size Issue
+119,96,124,182,458,5,1,Size Issue
+120,439,39,166,280,9,1,Damaged
+121,279,268,149,470,6,2,Not as Expected
+122,175,422,285,217,2,2,Delivery Delay
+123,255,4,13,316,8,2,Delivery Delay
+124,248,268,462,473,10,2,Late Return
+125,209,40,317,332,10,1,Late Return
+126,290,153,49,157,7,1,Size Issue
+127,217,470,147,328,8,2,Delivery Delay
+128,420,100,159,375,8,1,Late Return
+129,151,304,112,487,5,1,Late Return
+130,120,377,484,141,2,1,Delivery Delay
+131,450,255,451,244,5,1,Size Issue
+132,20,68,496,231,10,2,Not as Expected
+133,489,419,153,138,10,1,Size Issue
+134,122,318,161,491,3,2,Size Issue
+135,62,415,193,15,6,2,Delivery Delay
+136,272,13,155,470,5,2,Size Issue
+137,134,358,404,148,2,1,Late Return
+138,315,215,3,349,7,1,Damaged
+139,200,85,97,384,7,2,Late Return
+140,259,471,381,173,7,1,Damaged
+141,119,183,375,496,7,2,Late Return
+142,281,264,79,430,8,1,Not as Expected
+143,277,283,196,19,5,1,Damaged
+144,129,360,374,34,4,1,Late Return
+145,266,305,48,21,8,2,Damaged
+146,199,363,142,232,3,2,Delivery Delay
+147,142,322,248,242,8,2,Size Issue
+148,272,334,338,238,7,1,Late Return
+149,308,262,487,107,8,2,Delivery Delay
+150,30,29,385,457,2,1,Damaged
+151,367,427,12,379,9,2,Delivery Delay
+152,109,204,352,220,10,1,Delivery Delay
+153,395,397,88,42,8,1,Not as Expected
+154,53,75,433,64,2,1,Late Return
+155,274,349,93,469,8,2,Delivery Delay
+156,423,111,342,244,1,2,Damaged
+157,193,446,27,333,8,2,Size Issue
+158,411,5,329,26,6,2,Delivery Delay
+159,58,154,372,150,2,1,Damaged
+160,263,220,108,319,9,2,Late Return
+161,456,260,362,257,2,1,Not as Expected
+162,235,11,308,376,7,2,Late Return
+163,329,144,449,98,3,2,Late Return
+164,108,288,64,83,9,2,Late Return
+165,80,498,315,379,7,2,Size Issue
+166,318,230,442,23,7,1,Delivery Delay
+167,418,68,481,137,2,2,Not as Expected
+168,325,484,226,13,5,1,Delivery Delay
+169,17,35,346,252,4,1,Delivery Delay
+170,450,457,198,363,2,1,Delivery Delay
+171,378,242,448,353,9,2,Size Issue
+172,416,158,33,348,4,2,Not as Expected
+173,440,395,460,232,7,1,Damaged
+174,149,361,181,9,9,2,Size Issue
+175,101,490,247,262,2,2,Not as Expected
+176,197,74,30,239,8,1,Delivery Delay
+177,54,111,242,180,5,2,Damaged
+178,378,331,186,200,7,2,Damaged
+179,223,409,391,407,2,2,Not as Expected
+180,229,348,225,466,2,1,Delivery Delay
+181,264,498,68,432,2,1,Damaged
+182,452,5,70,229,1,2,Late Return
+183,375,356,221,234,4,2,Size Issue
+184,315,286,183,272,10,1,Delivery Delay
+185,384,454,489,57,2,2,Damaged
+186,409,388,275,492,8,2,Delivery Delay
+187,271,196,2,422,7,1,Not as Expected
+188,285,369,378,371,2,2,Damaged
+189,63,18,8,279,1,2,Late Return
+190,118,95,268,34,8,2,Size Issue
+191,448,443,445,272,2,2,Delivery Delay
+192,155,81,103,468,1,1,Delivery Delay
+193,419,440,335,69,1,2,Size Issue
+194,2,171,203,335,6,1,Late Return
+195,192,318,337,84,5,2,Damaged
+196,378,245,436,178,8,1,Size Issue
+197,484,186,431,264,10,1,Late Return
+198,329,207,342,478,7,2,Size Issue
+199,58,225,229,136,2,2,Damaged
+200,29,332,271,422,3,1,Size Issue
+201,316,296,168,258,5,2,Size Issue
+202,473,113,201,430,6,2,Late Return
+203,59,50,353,108,9,1,Size Issue
+204,480,242,147,35,6,1,Damaged
+205,120,459,155,463,6,1,Late Return
+206,115,360,416,205,7,1,Late Return
+207,301,416,20,76,3,1,Size Issue
+208,98,369,186,416,10,1,Damaged
+209,254,317,251,368,9,1,Not as Expected
+210,267,9,260,63,8,1,Late Return
+211,297,364,77,279,8,2,Delivery Delay
+212,278,470,178,489,9,2,Delivery Delay
+213,418,130,305,115,1,2,Delivery Delay
+214,240,47,19,91,2,1,Not as Expected
+215,441,447,292,381,5,1,Delivery Delay
+216,467,143,371,86,1,1,Damaged
+217,154,15,382,237,10,2,Size Issue
+218,350,97,94,58,1,1,Late Return
+219,409,13,406,181,10,2,Damaged
+220,400,148,475,408,10,1,Size Issue
+221,188,487,45,454,1,2,Size Issue
+222,319,322,179,349,4,1,Not as Expected
+223,118,185,485,482,1,2,Size Issue
+224,451,423,456,39,7,2,Delivery Delay
+225,183,73,332,410,1,1,Late Return
+226,476,431,495,42,7,1,Not as Expected
+227,371,251,124,458,6,1,Size Issue
+228,4,220,378,48,10,1,Not as Expected
+229,289,296,255,129,4,2,Not as Expected
+230,278,9,335,281,7,1,Damaged
+231,436,193,415,6,8,1,Damaged
+232,97,181,363,500,2,1,Damaged
+233,73,373,220,148,9,1,Late Return
+234,497,227,261,154,2,1,Delivery Delay
+235,497,217,154,32,2,1,Damaged
+236,244,18,403,76,8,1,Not as Expected
+237,163,410,194,123,1,2,Damaged
+238,482,327,150,15,3,1,Late Return
+239,337,290,386,349,9,1,Not as Expected
+240,168,68,35,25,7,2,Delivery Delay
+241,113,174,167,183,7,2,Size Issue
+242,354,392,343,363,8,2,Size Issue
+243,303,139,21,396,3,1,Late Return
+244,432,46,351,348,2,2,Delivery Delay
+245,359,41,211,194,2,2,Delivery Delay
+246,395,53,357,85,7,2,Size Issue
+247,37,172,374,490,2,2,Size Issue
+248,450,360,353,277,1,1,Damaged
+249,249,282,200,217,1,1,Not as Expected
+250,316,161,194,281,5,1,Not as Expected
+251,174,274,345,492,6,2,Not as Expected
+252,477,72,426,367,5,1,Size Issue
+253,296,120,276,45,5,2,Damaged
+254,450,7,462,332,4,2,Damaged
+255,422,414,431,327,7,2,Damaged
+256,258,210,131,194,7,1,Size Issue
+257,354,110,452,448,9,1,Not as Expected
+258,252,477,415,75,8,1,Size Issue
+259,82,21,476,382,4,2,Size Issue
+260,361,24,175,202,9,2,Size Issue
+261,102,59,290,55,5,2,Damaged
+262,233,316,409,228,10,1,Late Return
+263,166,240,456,188,9,1,Delivery Delay
+264,362,52,95,394,2,2,Size Issue
+265,417,442,470,230,9,1,Not as Expected
+266,178,372,65,477,5,1,Not as Expected
+267,282,465,283,463,7,1,Damaged
+268,194,380,198,302,2,2,Size Issue
+269,31,420,372,125,5,2,Late Return
+270,310,136,317,165,4,2,Size Issue
+271,420,410,389,441,7,1,Delivery Delay
+272,220,241,192,460,8,1,Late Return
+273,117,267,46,178,4,1,Not as Expected
+274,26,468,241,324,7,1,Damaged
+275,88,45,191,234,10,1,Not as Expected
+276,23,251,480,266,1,2,Damaged
+277,126,424,140,54,3,1,Delivery Delay
+278,301,2,218,30,4,2,Not as Expected
+279,40,466,57,323,3,2,Not as Expected
+280,90,178,246,222,8,1,Delivery Delay
+281,24,231,189,199,1,2,Size Issue
+282,41,9,231,453,10,2,Size Issue
+283,338,81,350,298,8,2,Late Return
+284,231,263,284,453,8,1,Damaged
+285,325,432,276,470,1,1,Not as Expected
+286,25,81,306,308,10,1,Size Issue
+287,422,339,275,500,6,2,Delivery Delay
+288,22,434,30,377,5,1,Delivery Delay
+289,485,359,458,187,1,1,Size Issue
+290,454,365,94,497,7,1,Size Issue
+291,141,500,206,392,2,1,Delivery Delay
+292,312,204,329,40,6,1,Late Return
+293,290,22,335,96,5,2,Size Issue
+294,493,173,355,285,7,1,Size Issue
+295,280,36,315,238,10,2,Delivery Delay
+296,429,179,422,205,5,1,Size Issue
+297,228,123,253,224,7,1,Damaged
+298,193,390,217,3,10,2,Size Issue
+299,66,219,246,199,9,1,Size Issue
+300,86,222,214,211,4,1,Damaged
+301,11,437,344,473,6,2,Late Return
+302,95,40,145,416,8,2,Size Issue
+303,57,436,408,263,5,1,Damaged
+304,397,270,457,370,1,1,Not as Expected
+305,431,124,299,242,5,2,Late Return
+306,196,165,258,484,1,2,Delivery Delay
+307,343,164,175,334,10,2,Size Issue
+308,133,440,149,251,3,1,Delivery Delay
+309,473,251,162,185,8,2,Damaged
+310,71,489,90,22,7,2,Damaged
+311,151,138,365,34,7,1,Not as Expected
+312,17,12,495,139,2,2,Not as Expected
+313,495,137,165,195,10,1,Late Return
+314,293,22,382,161,5,1,Not as Expected
+315,420,316,316,318,6,1,Delivery Delay
+316,319,312,266,449,1,1,Late Return
+317,279,130,429,398,1,1,Damaged
+318,467,493,184,110,5,2,Delivery Delay
+319,283,119,195,305,9,2,Late Return
+320,236,121,35,388,7,2,Damaged
+321,469,492,121,131,2,1,Not as Expected
+322,85,33,225,106,9,1,Not as Expected
+323,110,287,243,380,7,2,Not as Expected
+324,486,346,315,93,5,1,Delivery Delay
+325,223,170,50,218,3,2,Late Return
+326,88,119,467,415,3,1,Damaged
+327,20,195,461,185,4,1,Size Issue
+328,288,151,202,433,9,2,Damaged
+329,345,333,384,369,10,2,Not as Expected
+330,290,79,211,231,3,1,Not as Expected
+331,304,490,369,14,9,2,Delivery Delay
+332,485,328,137,248,7,2,Damaged
+333,123,491,127,367,10,1,Damaged
+334,344,155,121,39,1,2,Damaged
+335,476,186,47,296,5,1,Not as Expected
+336,27,405,332,424,1,2,Damaged
+337,70,238,359,415,6,1,Delivery Delay
+338,463,230,460,16,10,2,Damaged
+339,3,373,40,384,6,2,Damaged
+340,77,485,483,298,6,2,Damaged
+341,388,106,243,283,10,1,Size Issue
+342,54,258,399,350,7,2,Size Issue
+343,403,174,120,128,3,1,Delivery Delay
+344,165,190,79,7,3,1,Delivery Delay
+345,459,20,443,91,8,1,Not as Expected
+346,282,472,184,36,2,2,Damaged
+347,305,345,74,371,9,2,Size Issue
+348,415,357,141,91,6,2,Size Issue
+349,193,293,412,406,4,2,Not as Expected
+350,387,147,43,41,7,1,Damaged
+351,297,149,60,245,6,1,Not as Expected
+352,227,146,300,480,8,1,Damaged
+353,250,452,99,194,8,1,Size Issue
+354,60,141,499,336,9,1,Delivery Delay
+355,155,260,138,116,5,2,Not as Expected
+356,182,57,220,221,4,1,Late Return
+357,299,9,91,410,1,2,Not as Expected
+358,141,56,403,174,9,2,Late Return
+359,363,318,239,34,7,1,Delivery Delay
+360,491,304,128,252,4,1,Late Return
+361,326,235,23,170,8,1,Damaged
+362,295,4,204,57,7,1,Size Issue
+363,198,294,21,23,10,2,Size Issue
+364,44,121,312,380,4,1,Not as Expected
+365,301,294,256,447,2,2,Late Return
+366,135,178,8,30,10,2,Late Return
+367,356,244,148,378,7,1,Delivery Delay
+368,19,105,347,95,9,2,Damaged
+369,259,477,181,113,10,2,Late Return
+370,482,476,434,39,2,1,Size Issue
+371,287,177,253,189,5,1,Not as Expected
+372,422,265,189,26,8,2,Damaged
+373,315,303,13,321,7,1,Late Return
+374,250,129,205,414,6,2,Late Return
+375,187,330,87,363,8,1,Delivery Delay
+376,67,381,162,253,8,2,Late Return
+377,230,397,208,106,10,2,Late Return
+378,473,372,96,29,6,1,Not as Expected
+379,2,496,5,392,1,2,Not as Expected
+380,171,478,101,1,7,2,Damaged
+381,355,51,291,118,2,2,Damaged
+382,232,387,253,17,9,1,Delivery Delay
+383,493,259,67,185,7,1,Size Issue
+384,48,264,499,144,5,2,Late Return
+385,468,56,474,32,1,2,Delivery Delay
+386,9,302,448,489,2,2,Late Return
+387,58,16,417,229,7,2,Late Return
+388,318,377,329,417,10,2,Size Issue
+389,252,389,244,77,6,1,Late Return
+390,376,363,483,372,6,2,Late Return
+391,215,381,335,431,3,1,Delivery Delay
+392,399,275,256,476,6,1,Not as Expected
+393,442,201,407,354,5,2,Delivery Delay
+394,56,475,119,144,7,1,Size Issue
+395,143,293,205,498,7,1,Size Issue
+396,44,459,457,310,7,1,Damaged
+397,463,118,431,127,2,1,Delivery Delay
+398,217,341,453,168,2,1,Delivery Delay
+399,347,210,196,205,4,2,Delivery Delay
+400,78,156,4,127,3,2,Delivery Delay
+401,374,302,339,200,7,1,Late Return
+402,21,267,9,372,8,2,Late Return
+403,186,194,137,363,5,2,Size Issue
+404,407,203,470,119,1,2,Damaged
+405,437,455,99,122,10,1,Not as Expected
+406,14,13,304,429,4,2,Damaged
+407,165,70,359,318,1,1,Late Return
+408,476,233,37,195,7,1,Late Return
+409,489,341,427,114,10,1,Not as Expected
+410,125,20,479,471,3,2,Delivery Delay
+411,294,85,172,355,7,1,Late Return
+412,203,386,79,404,10,2,Delivery Delay
+413,336,420,52,493,6,1,Damaged
+414,255,172,35,402,4,1,Late Return
+415,67,150,127,438,8,2,Delivery Delay
+416,12,461,250,259,6,1,Damaged
+417,263,67,498,373,8,2,Size Issue
+418,442,169,479,384,5,1,Delivery Delay
+419,322,212,330,18,5,1,Damaged
+420,90,431,464,283,2,1,Delivery Delay
+421,371,132,102,403,1,2,Size Issue
+422,375,87,37,2,3,2,Late Return
+423,486,56,6,137,9,1,Size Issue
+424,499,469,19,288,6,2,Not as Expected
+425,168,381,66,394,10,1,Late Return
+426,320,122,497,116,7,2,Not as Expected
+427,31,298,158,410,6,1,Damaged
+428,115,18,418,416,3,2,Damaged
+429,252,121,445,94,6,2,Late Return
+430,448,147,40,466,9,1,Size Issue
+431,411,173,395,353,7,1,Late Return
+432,491,456,365,410,1,1,Late Return
+433,379,174,85,443,4,2,Delivery Delay
+434,99,281,377,434,2,2,Delivery Delay
+435,280,285,175,185,8,2,Damaged
+436,43,71,257,23,7,2,Damaged
+437,479,269,286,156,5,1,Damaged
+438,44,276,47,473,1,2,Delivery Delay
+439,192,303,59,250,1,2,Size Issue
+440,323,329,481,480,1,1,Delivery Delay
+441,474,469,37,113,5,2,Size Issue
+442,494,126,90,372,2,1,Not as Expected
+443,86,457,242,308,6,1,Delivery Delay
+444,414,142,247,12,1,1,Not as Expected
+445,495,337,149,308,3,1,Not as Expected
+446,286,87,202,308,6,1,Not as Expected
+447,245,216,79,30,4,2,Damaged
+448,95,396,113,136,1,1,Not as Expected
+449,305,266,383,236,7,2,Not as Expected
+450,150,29,500,38,6,1,Damaged
+451,425,286,138,84,4,1,Damaged
+452,356,266,244,11,9,1,Damaged
+453,348,340,32,367,5,1,Not as Expected
+454,226,288,245,319,4,2,Size Issue
+455,222,119,340,352,10,1,Damaged
+456,90,280,233,85,3,2,Not as Expected
+457,359,249,439,423,2,2,Damaged
+458,390,49,407,227,2,2,Delivery Delay
+459,234,46,126,192,5,1,Damaged
+460,252,480,190,433,9,1,Not as Expected
+461,43,423,432,114,4,1,Delivery Delay
+462,260,273,278,402,9,2,Delivery Delay
+463,455,361,472,59,8,2,Not as Expected
+464,25,48,67,356,1,1,Not as Expected
+465,417,259,154,468,2,1,Damaged
+466,419,350,246,280,4,2,Late Return
+467,272,343,43,298,2,1,Not as Expected
+468,305,153,332,194,1,2,Not as Expected
+469,61,317,167,1,7,1,Not as Expected
+470,307,83,251,103,7,2,Damaged
+471,163,129,424,206,3,2,Not as Expected
+472,90,11,399,75,5,2,Delivery Delay
+473,170,474,149,321,4,2,Late Return
+474,306,494,50,453,7,2,Size Issue
+475,414,210,329,469,9,1,Damaged
+476,85,136,184,62,8,1,Not as Expected
+477,83,174,313,240,1,2,Delivery Delay
+478,14,56,376,382,2,1,Damaged
+479,180,391,415,463,7,2,Not as Expected
+480,265,385,222,348,7,2,Delivery Delay
+481,386,193,246,391,9,1,Late Return
+482,183,97,156,373,2,2,Size Issue
+483,223,63,447,248,8,2,Not as Expected
+484,93,202,7,158,1,2,Late Return
+485,380,356,21,231,2,1,Not as Expected
+486,339,243,71,91,10,2,Not as Expected
+487,224,137,28,78,7,2,Damaged
+488,50,72,468,213,2,2,Not as Expected
+489,99,315,487,241,5,1,Late Return
+490,294,482,393,120,1,2,Late Return
+491,17,474,435,130,4,1,Not as Expected
+492,498,221,155,269,9,2,Damaged
+493,12,118,369,215,2,2,Not as Expected
+494,285,171,351,497,5,2,Size Issue
+495,309,116,102,307,2,1,Damaged
+496,381,121,430,136,8,1,Delivery Delay
+497,219,346,184,456,9,2,Damaged
+498,247,313,154,498,4,2,Size Issue
+499,483,26,109,88,4,2,Size Issue
+500,161,251,277,323,6,1,Damaged

@@ -1,0 +1,501 @@
+product_id,product_name,category,rental_price
+1,Office Furniture Model 1,Office Furniture,4139.18
+2,Dining Table Model 2,Bar Stool,6711.74
+3,Bar Stool Model 3,Office Furniture,3464.58
+4,Wardrobe Model 4,Bed,2855.04
+5,Bed Model 5,Wardrobe,4027.06
+6,Bar Stool Model 6,Wardrobe,3943.9
+7,Bed Model 7,Dining Table,8940.48
+8,Bar Stool Model 8,Study Desk,8400.73
+9,Dining Table Model 9,Bar Stool,7386.61
+10,Sofa Model 10,Wardrobe,9634.11
+11,Bar Stool Model 11,Wardrobe,4802.89
+12,Bar Stool Model 12,Study Desk,3205.3
+13,Study Desk Model 13,Sofa,2056.59
+14,Office Furniture Model 14,Study Desk,3709.48
+15,Dining Table Model 15,Sofa,2307.37
+16,Dining Table Model 16,Bar Stool,1829.67
+17,Bed Model 17,Wardrobe,6426.39
+18,Bed Model 18,Bar Stool,4277.69
+19,Sofa Model 19,Bed,6081.13
+20,Dining Table Model 20,Office Furniture,2722.02
+21,Sofa Model 21,Bed,7092.15
+22,Study Desk Model 22,Dining Table,2939.55
+23,Bed Model 23,Wardrobe,3502.21
+24,Bed Model 24,Bar Stool,7675.84
+25,Sofa Model 25,Bar Stool,6037.64
+26,Dining Table Model 26,Study Desk,4013.53
+27,Study Desk Model 27,Wardrobe,5886.9
+28,Study Desk Model 28,Office Furniture,7245.86
+29,Study Desk Model 29,Bar Stool,9209.19
+30,Wardrobe Model 30,Dining Table,6226.42
+31,Sofa Model 31,Sofa,3094.18
+32,Sofa Model 32,Office Furniture,7720.28
+33,Dining Table Model 33,Office Furniture,7999.92
+34,Bed Model 34,Wardrobe,2803.61
+35,Bar Stool Model 35,Wardrobe,8385.17
+36,Study Desk Model 36,Study Desk,5184.41
+37,Wardrobe Model 37,Sofa,8017.9
+38,Sofa Model 38,Bar Stool,3137.3
+39,Wardrobe Model 39,Bed,3993.22
+40,Wardrobe Model 40,Dining Table,9583.27
+41,Wardrobe Model 41,Study Desk,6920.34
+42,Office Furniture Model 42,Study Desk,7955.9
+43,Office Furniture Model 43,Sofa,7195.37
+44,Wardrobe Model 44,Bar Stool,2838.74
+45,Bar Stool Model 45,Bar Stool,5236.2
+46,Wardrobe Model 46,Study Desk,8280.67
+47,Dining Table Model 47,Study Desk,7075.32
+48,Dining Table Model 48,Bar Stool,1054.25
+49,Bar Stool Model 49,Wardrobe,1786.67
+50,Office Furniture Model 50,Wardrobe,4121.15
+51,Sofa Model 51,Study Desk,9499.29
+52,Dining Table Model 52,Dining Table,5420.71
+53,Bar Stool Model 53,Office Furniture,3431.59
+54,Study Desk Model 54,Office Furniture,4243.81
+55,Study Desk Model 55,Wardrobe,2895.87
+56,Bed Model 56,Study Desk,4790.8
+57,Bed Model 57,Office Furniture,2962.32
+58,Sofa Model 58,Study Desk,8611.77
+59,Study Desk Model 59,Dining Table,5106.44
+60,Dining Table Model 60,Dining Table,3518.22
+61,Bar Stool Model 61,Study Desk,9396.02
+62,Dining Table Model 62,Office Furniture,3829.16
+63,Wardrobe Model 63,Bar Stool,9187.43
+64,Sofa Model 64,Wardrobe,1390.76
+65,Study Desk Model 65,Dining Table,7364.04
+66,Sofa Model 66,Wardrobe,5355.0
+67,Bed Model 67,Dining Table,4997.99
+68,Wardrobe Model 68,Wardrobe,1326.91
+69,Sofa Model 69,Study Desk,1366.15
+70,Office Furniture Model 70,Wardrobe,3994.78
+71,Sofa Model 71,Dining Table,9524.08
+72,Bar Stool Model 72,Sofa,6558.94
+73,Bed Model 73,Office Furniture,4319.87
+74,Office Furniture Model 74,Study Desk,6507.79
+75,Wardrobe Model 75,Wardrobe,2855.18
+76,Wardrobe Model 76,Office Furniture,2485.6
+77,Wardrobe Model 77,Sofa,4256.36
+78,Study Desk Model 78,Office Furniture,8770.18
+79,Study Desk Model 79,Office Furniture,5584.62
+80,Bed Model 80,Sofa,3672.11
+81,Office Furniture Model 81,Bed,9552.26
+82,Office Furniture Model 82,Bed,8343.69
+83,Study Desk Model 83,Wardrobe,3906.77
+84,Wardrobe Model 84,Wardrobe,9748.88
+85,Wardrobe Model 85,Bar Stool,9886.16
+86,Wardrobe Model 86,Wardrobe,4677.94
+87,Wardrobe Model 87,Study Desk,6903.31
+88,Bar Stool Model 88,Sofa,4650.88
+89,Sofa Model 89,Dining Table,3316.13
+90,Study Desk Model 90,Office Furniture,1743.87
+91,Study Desk Model 91,Bed,3372.49
+92,Bed Model 92,Bed,3443.32
+93,Dining Table Model 93,Wardrobe,4587.75
+94,Bar Stool Model 94,Wardrobe,2663.97
+95,Dining Table Model 95,Study Desk,9584.37
+96,Dining Table Model 96,Bar Stool,1925.92
+97,Wardrobe Model 97,Office Furniture,6626.88
+98,Sofa Model 98,Bar Stool,4975.28
+99,Bar Stool Model 99,Office Furniture,4811.66
+100,Dining Table Model 100,Bar Stool,4347.93
+101,Wardrobe Model 101,Sofa,8814.83
+102,Sofa Model 102,Dining Table,3524.29
+103,Wardrobe Model 103,Study Desk,1185.19
+104,Office Furniture Model 104,Bar Stool,9262.87
+105,Wardrobe Model 105,Wardrobe,8780.32
+106,Sofa Model 106,Bed,3492.12
+107,Study Desk Model 107,Office Furniture,5711.39
+108,Dining Table Model 108,Office Furniture,1981.79
+109,Sofa Model 109,Wardrobe,1840.84
+110,Office Furniture Model 110,Study Desk,8537.19
+111,Bar Stool Model 111,Office Furniture,4692.39
+112,Office Furniture Model 112,Office Furniture,6955.45
+113,Study Desk Model 113,Dining Table,9488.81
+114,Study Desk Model 114,Wardrobe,3206.18
+115,Office Furniture Model 115,Study Desk,1118.44
+116,Office Furniture Model 116,Dining Table,1217.34
+117,Bed Model 117,Office Furniture,7384.47
+118,Office Furniture Model 118,Bar Stool,9320.97
+119,Dining Table Model 119,Bed,5205.97
+120,Bed Model 120,Study Desk,4375.98
+121,Sofa Model 121,Bed,5885.74
+122,Office Furniture Model 122,Dining Table,8730.25
+123,Sofa Model 123,Bar Stool,6869.38
+124,Bed Model 124,Bed,3096.82
+125,Sofa Model 125,Wardrobe,7971.22
+126,Dining Table Model 126,Study Desk,2211.52
+127,Bar Stool Model 127,Bed,2490.04
+128,Dining Table Model 128,Bed,6514.14
+129,Sofa Model 129,Bed,3149.05
+130,Office Furniture Model 130,Wardrobe,7343.01
+131,Wardrobe Model 131,Bar Stool,4145.67
+132,Bed Model 132,Sofa,3496.82
+133,Bar Stool Model 133,Office Furniture,9990.27
+134,Bed Model 134,Dining Table,1365.55
+135,Study Desk Model 135,Study Desk,6812.4
+136,Dining Table Model 136,Study Desk,1348.3
+137,Bar Stool Model 137,Sofa,7841.89
+138,Bar Stool Model 138,Sofa,3070.81
+139,Study Desk Model 139,Wardrobe,1808.49
+140,Study Desk Model 140,Dining Table,6836.05
+141,Wardrobe Model 141,Bar Stool,7593.41
+142,Sofa Model 142,Sofa,7102.86
+143,Bed Model 143,Sofa,1467.11
+144,Sofa Model 144,Bar Stool,3648.76
+145,Bed Model 145,Bar Stool,5059.8
+146,Bar Stool Model 146,Study Desk,3583.93
+147,Study Desk Model 147,Study Desk,8294.62
+148,Wardrobe Model 148,Bar Stool,2180.04
+149,Dining Table Model 149,Study Desk,6509.61
+150,Bed Model 150,Bed,9893.93
+151,Office Furniture Model 151,Dining Table,9123.01
+152,Sofa Model 152,Office Furniture,2999.41
+153,Bed Model 153,Office Furniture,1000.74
+154,Bed Model 154,Bar Stool,9825.38
+155,Sofa Model 155,Bed,8944.42
+156,Bar Stool Model 156,Dining Table,9275.25
+157,Office Furniture Model 157,Sofa,4739.53
+158,Sofa Model 158,Office Furniture,7701.54
+159,Sofa Model 159,Office Furniture,2915.48
+160,Study Desk Model 160,Office Furniture,4530.74
+161,Office Furniture Model 161,Bed,8663.93
+162,Bar Stool Model 162,Dining Table,2148.51
+163,Bed Model 163,Study Desk,9044.79
+164,Office Furniture Model 164,Bar Stool,5468.57
+165,Office Furniture Model 165,Bed,4834.86
+166,Dining Table Model 166,Sofa,3750.82
+167,Bar Stool Model 167,Study Desk,9251.64
+168,Wardrobe Model 168,Bar Stool,5658.61
+169,Dining Table Model 169,Office Furniture,8236.24
+170,Study Desk Model 170,Wardrobe,8718.87
+171,Bed Model 171,Bed,9301.44
+172,Sofa Model 172,Study Desk,3730.43
+173,Bed Model 173,Wardrobe,4058.3
+174,Bar Stool Model 174,Bed,6355.66
+175,Wardrobe Model 175,Office Furniture,4971.92
+176,Dining Table Model 176,Study Desk,9395.58
+177,Sofa Model 177,Wardrobe,4578.08
+178,Wardrobe Model 178,Sofa,5300.0
+179,Bar Stool Model 179,Bed,6554.67
+180,Bed Model 180,Bed,4642.66
+181,Sofa Model 181,Wardrobe,9932.31
+182,Office Furniture Model 182,Study Desk,1889.66
+183,Bar Stool Model 183,Wardrobe,2985.43
+184,Bed Model 184,Office Furniture,3903.9
+185,Wardrobe Model 185,Wardrobe,2329.51
+186,Office Furniture Model 186,Office Furniture,3557.97
+187,Bar Stool Model 187,Bed,8013.21
+188,Wardrobe Model 188,Wardrobe,5706.03
+189,Wardrobe Model 189,Office Furniture,1305.58
+190,Wardrobe Model 190,Bar Stool,9843.6
+191,Bed Model 191,Bed,6544.06
+192,Bed Model 192,Bed,1530.46
+193,Dining Table Model 193,Office Furniture,6950.52
+194,Sofa Model 194,Sofa,4405.32
+195,Bar Stool Model 195,Dining Table,2221.06
+196,Sofa Model 196,Office Furniture,6072.98
+197,Sofa Model 197,Office Furniture,7543.72
+198,Wardrobe Model 198,Dining Table,7040.14
+199,Bed Model 199,Bed,3227.62
+200,Wardrobe Model 200,Bar Stool,5723.8
+201,Wardrobe Model 201,Office Furniture,5838.97
+202,Study Desk Model 202,Bed,7451.23
+203,Study Desk Model 203,Study Desk,4238.81
+204,Study Desk Model 204,Study Desk,8179.59
+205,Study Desk Model 205,Sofa,6651.3
+206,Wardrobe Model 206,Wardrobe,1344.98
+207,Dining Table Model 207,Bar Stool,5918.31
+208,Sofa Model 208,Sofa,8757.21
+209,Dining Table Model 209,Office Furniture,6108.17
+210,Dining Table Model 210,Bar Stool,2582.45
+211,Office Furniture Model 211,Dining Table,5593.39
+212,Study Desk Model 212,Office Furniture,7812.51
+213,Bed Model 213,Bed,1990.95
+214,Study Desk Model 214,Sofa,8353.89
+215,Dining Table Model 215,Dining Table,2507.33
+216,Dining Table Model 216,Sofa,5806.69
+217,Study Desk Model 217,Sofa,4471.69
+218,Bed Model 218,Dining Table,3237.61
+219,Wardrobe Model 219,Bar Stool,6826.89
+220,Study Desk Model 220,Study Desk,1336.53
+221,Office Furniture Model 221,Dining Table,7840.41
+222,Dining Table Model 222,Office Furniture,5742.47
+223,Sofa Model 223,Office Furniture,8881.94
+224,Study Desk Model 224,Office Furniture,5686.46
+225,Study Desk Model 225,Office Furniture,1315.3
+226,Wardrobe Model 226,Wardrobe,2292.41
+227,Bar Stool Model 227,Office Furniture,8160.44
+228,Dining Table Model 228,Study Desk,5427.78
+229,Bar Stool Model 229,Office Furniture,4976.91
+230,Sofa Model 230,Office Furniture,3865.91
+231,Bar Stool Model 231,Office Furniture,3560.94
+232,Bed Model 232,Sofa,9692.98
+233,Study Desk Model 233,Study Desk,4896.72
+234,Bed Model 234,Bed,8956.03
+235,Office Furniture Model 235,Sofa,6833.47
+236,Sofa Model 236,Sofa,8725.85
+237,Dining Table Model 237,Wardrobe,8672.05
+238,Study Desk Model 238,Bar Stool,9606.81
+239,Bar Stool Model 239,Wardrobe,7281.48
+240,Sofa Model 240,Dining Table,8248.57
+241,Bar Stool Model 241,Office Furniture,7598.15
+242,Dining Table Model 242,Dining Table,6447.04
+243,Office Furniture Model 243,Bar Stool,7456.19
+244,Study Desk Model 244,Sofa,7441.75
+245,Bed Model 245,Wardrobe,1368.17
+246,Bed Model 246,Bed,5645.0
+247,Dining Table Model 247,Wardrobe,8133.86
+248,Study Desk Model 248,Wardrobe,3186.66
+249,Wardrobe Model 249,Study Desk,5186.33
+250,Dining Table Model 250,Study Desk,4914.87
+251,Office Furniture Model 251,Wardrobe,4625.08
+252,Wardrobe Model 252,Wardrobe,2096.56
+253,Office Furniture Model 253,Dining Table,5731.4
+254,Bar Stool Model 254,Wardrobe,5016.24
+255,Bar Stool Model 255,Office Furniture,6970.53
+256,Wardrobe Model 256,Dining Table,5944.72
+257,Study Desk Model 257,Dining Table,1247.89
+258,Dining Table Model 258,Dining Table,1287.26
+259,Study Desk Model 259,Bed,7312.24
+260,Wardrobe Model 260,Bed,7368.23
+261,Sofa Model 261,Bed,9639.45
+262,Bed Model 262,Wardrobe,8890.34
+263,Bed Model 263,Study Desk,5212.54
+264,Bar Stool Model 264,Dining Table,6633.16
+265,Bar Stool Model 265,Dining Table,5114.64
+266,Bed Model 266,Office Furniture,3006.52
+267,Wardrobe Model 267,Bar Stool,4390.09
+268,Sofa Model 268,Dining Table,1934.96
+269,Sofa Model 269,Wardrobe,6998.74
+270,Bar Stool Model 270,Bar Stool,2728.27
+271,Study Desk Model 271,Dining Table,5279.21
+272,Wardrobe Model 272,Dining Table,9706.93
+273,Office Furniture Model 273,Wardrobe,1285.02
+274,Sofa Model 274,Office Furniture,2365.57
+275,Dining Table Model 275,Study Desk,3687.21
+276,Wardrobe Model 276,Bed,9476.26
+277,Bed Model 277,Dining Table,9179.58
+278,Office Furniture Model 278,Bar Stool,2458.01
+279,Bar Stool Model 279,Bed,9830.06
+280,Bar Stool Model 280,Study Desk,7756.73
+281,Dining Table Model 281,Dining Table,5859.79
+282,Wardrobe Model 282,Office Furniture,9385.33
+283,Dining Table Model 283,Dining Table,8925.46
+284,Office Furniture Model 284,Bed,4521.85
+285,Study Desk Model 285,Sofa,6907.09
+286,Sofa Model 286,Bar Stool,6826.47
+287,Bed Model 287,Sofa,3942.71
+288,Office Furniture Model 288,Bar Stool,2614.51
+289,Study Desk Model 289,Sofa,5201.29
+290,Bed Model 290,Sofa,3369.53
+291,Bar Stool Model 291,Sofa,4195.59
+292,Dining Table Model 292,Wardrobe,9587.3
+293,Sofa Model 293,Sofa,5150.24
+294,Bar Stool Model 294,Office Furniture,7164.02
+295,Sofa Model 295,Bed,4026.07
+296,Bar Stool Model 296,Dining Table,9962.75
+297,Bed Model 297,Wardrobe,6928.91
+298,Bar Stool Model 298,Office Furniture,2764.09
+299,Bed Model 299,Wardrobe,1883.66
+300,Bar Stool Model 300,Office Furniture,9488.63
+301,Sofa Model 301,Sofa,9503.0
+302,Bar Stool Model 302,Sofa,6591.96
+303,Sofa Model 303,Study Desk,1152.92
+304,Wardrobe Model 304,Dining Table,3029.81
+305,Office Furniture Model 305,Dining Table,8211.49
+306,Study Desk Model 306,Sofa,8879.14
+307,Dining Table Model 307,Dining Table,5085.91
+308,Bar Stool Model 308,Dining Table,4289.69
+309,Dining Table Model 309,Office Furniture,3468.03
+310,Study Desk Model 310,Office Furniture,2052.73
+311,Bar Stool Model 311,Wardrobe,2041.7
+312,Bar Stool Model 312,Bar Stool,9573.42
+313,Bed Model 313,Office Furniture,8277.64
+314,Dining Table Model 314,Bar Stool,2483.01
+315,Wardrobe Model 315,Bar Stool,2863.45
+316,Bar Stool Model 316,Bar Stool,6899.96
+317,Bar Stool Model 317,Bar Stool,7881.98
+318,Sofa Model 318,Office Furniture,8292.83
+319,Bar Stool Model 319,Sofa,2470.04
+320,Bar Stool Model 320,Study Desk,9857.15
+321,Office Furniture Model 321,Dining Table,3050.22
+322,Study Desk Model 322,Dining Table,6304.74
+323,Wardrobe Model 323,Sofa,6288.54
+324,Bed Model 324,Bar Stool,9706.26
+325,Bar Stool Model 325,Office Furniture,6919.01
+326,Sofa Model 326,Dining Table,6264.14
+327,Sofa Model 327,Study Desk,5668.95
+328,Wardrobe Model 328,Sofa,7881.92
+329,Study Desk Model 329,Bar Stool,1954.5
+330,Office Furniture Model 330,Wardrobe,1018.83
+331,Bed Model 331,Study Desk,9572.4
+332,Bed Model 332,Office Furniture,5487.92
+333,Bed Model 333,Study Desk,3955.02
+334,Study Desk Model 334,Bar Stool,4312.48
+335,Dining Table Model 335,Wardrobe,8234.59
+336,Sofa Model 336,Bed,4441.33
+337,Study Desk Model 337,Study Desk,7931.52
+338,Wardrobe Model 338,Sofa,4964.16
+339,Office Furniture Model 339,Wardrobe,8596.7
+340,Study Desk Model 340,Wardrobe,1685.84
+341,Office Furniture Model 341,Wardrobe,5330.15
+342,Bar Stool Model 342,Dining Table,5201.65
+343,Study Desk Model 343,Office Furniture,3378.95
+344,Study Desk Model 344,Wardrobe,9492.53
+345,Bar Stool Model 345,Office Furniture,9145.26
+346,Wardrobe Model 346,Study Desk,4992.37
+347,Sofa Model 347,Study Desk,1874.44
+348,Office Furniture Model 348,Study Desk,2861.05
+349,Dining Table Model 349,Bed,3443.43
+350,Sofa Model 350,Bar Stool,5357.98
+351,Office Furniture Model 351,Office Furniture,4045.39
+352,Bar Stool Model 352,Bar Stool,7967.22
+353,Bar Stool Model 353,Sofa,5284.24
+354,Bar Stool Model 354,Bar Stool,8833.33
+355,Bed Model 355,Study Desk,9962.04
+356,Office Furniture Model 356,Wardrobe,2978.52
+357,Bed Model 357,Office Furniture,6505.04
+358,Dining Table Model 358,Wardrobe,8627.52
+359,Office Furniture Model 359,Bed,9507.13
+360,Sofa Model 360,Bed,3610.78
+361,Bed Model 361,Wardrobe,7543.38
+362,Office Furniture Model 362,Study Desk,1135.15
+363,Dining Table Model 363,Wardrobe,8912.28
+364,Wardrobe Model 364,Dining Table,1575.45
+365,Office Furniture Model 365,Wardrobe,7600.56
+366,Wardrobe Model 366,Sofa,9951.49
+367,Bed Model 367,Study Desk,5510.71
+368,Dining Table Model 368,Office Furniture,2884.01
+369,Dining Table Model 369,Office Furniture,6351.79
+370,Bar Stool Model 370,Study Desk,6617.35
+371,Study Desk Model 371,Bar Stool,7012.65
+372,Study Desk Model 372,Wardrobe,2553.51
+373,Office Furniture Model 373,Bed,9088.41
+374,Bed Model 374,Bar Stool,6588.92
+375,Dining Table Model 375,Bed,1392.12
+376,Sofa Model 376,Study Desk,7156.37
+377,Study Desk Model 377,Sofa,2764.76
+378,Wardrobe Model 378,Office Furniture,1246.07
+379,Dining Table Model 379,Sofa,5958.58
+380,Bed Model 380,Office Furniture,8319.82
+381,Office Furniture Model 381,Study Desk,8739.47
+382,Office Furniture Model 382,Bar Stool,1931.69
+383,Sofa Model 383,Sofa,6967.39
+384,Bar Stool Model 384,Bed,7390.68
+385,Office Furniture Model 385,Bed,3650.65
+386,Study Desk Model 386,Wardrobe,9742.28
+387,Dining Table Model 387,Dining Table,3508.19
+388,Office Furniture Model 388,Dining Table,1629.84
+389,Office Furniture Model 389,Wardrobe,5673.52
+390,Bar Stool Model 390,Bed,7248.83
+391,Bar Stool Model 391,Dining Table,3201.94
+392,Sofa Model 392,Bed,4047.24
+393,Office Furniture Model 393,Sofa,6072.65
+394,Bed Model 394,Wardrobe,8980.1
+395,Bed Model 395,Study Desk,7725.93
+396,Sofa Model 396,Wardrobe,2886.33
+397,Wardrobe Model 397,Office Furniture,3265.99
+398,Dining Table Model 398,Bar Stool,5714.93
+399,Office Furniture Model 399,Dining Table,7920.63
+400,Office Furniture Model 400,Bed,6568.86
+401,Study Desk Model 401,Sofa,5511.92
+402,Sofa Model 402,Sofa,6374.13
+403,Dining Table Model 403,Bed,7804.54
+404,Dining Table Model 404,Wardrobe,5833.72
+405,Bed Model 405,Study Desk,9079.77
+406,Wardrobe Model 406,Sofa,9523.61
+407,Wardrobe Model 407,Dining Table,9238.19
+408,Sofa Model 408,Wardrobe,7790.67
+409,Bar Stool Model 409,Bed,3216.89
+410,Study Desk Model 410,Dining Table,4467.44
+411,Office Furniture Model 411,Office Furniture,3520.0
+412,Office Furniture Model 412,Office Furniture,6918.94
+413,Bar Stool Model 413,Bed,3917.99
+414,Sofa Model 414,Wardrobe,7789.52
+415,Study Desk Model 415,Bar Stool,2021.58
+416,Wardrobe Model 416,Office Furniture,7978.28
+417,Sofa Model 417,Sofa,6273.12
+418,Bed Model 418,Wardrobe,8518.5
+419,Office Furniture Model 419,Wardrobe,4877.88
+420,Sofa Model 420,Dining Table,6624.68
+421,Bar Stool Model 421,Bed,5989.71
+422,Study Desk Model 422,Bar Stool,9781.04
+423,Office Furniture Model 423,Dining Table,7799.27
+424,Dining Table Model 424,Dining Table,5903.32
+425,Office Furniture Model 425,Study Desk,2566.29
+426,Wardrobe Model 426,Office Furniture,9137.03
+427,Bed Model 427,Bed,2852.54
+428,Wardrobe Model 428,Dining Table,6850.39
+429,Office Furniture Model 429,Bed,9428.25
+430,Wardrobe Model 430,Bed,3012.22
+431,Dining Table Model 431,Sofa,3033.31
+432,Study Desk Model 432,Office Furniture,8666.37
+433,Dining Table Model 433,Bed,8448.9
+434,Bar Stool Model 434,Study Desk,4165.33
+435,Study Desk Model 435,Bed,3385.87
+436,Bar Stool Model 436,Dining Table,2146.5
+437,Study Desk Model 437,Office Furniture,9891.42
+438,Dining Table Model 438,Office Furniture,8518.09
+439,Sofa Model 439,Office Furniture,9094.52
+440,Office Furniture Model 440,Dining Table,5623.11
+441,Dining Table Model 441,Bed,2029.46
+442,Wardrobe Model 442,Bar Stool,1473.22
+443,Sofa Model 443,Office Furniture,3975.24
+444,Bed Model 444,Bed,9282.97
+445,Dining Table Model 445,Sofa,9528.24
+446,Office Furniture Model 446,Study Desk,8570.47
+447,Study Desk Model 447,Dining Table,2428.11
+448,Sofa Model 448,Dining Table,4779.31
+449,Sofa Model 449,Dining Table,3216.19
+450,Sofa Model 450,Wardrobe,2848.15
+451,Bar Stool Model 451,Dining Table,7163.43
+452,Bed Model 452,Bar Stool,5375.01
+453,Sofa Model 453,Sofa,3924.19
+454,Dining Table Model 454,Office Furniture,1901.93
+455,Sofa Model 455,Office Furniture,5902.87
+456,Office Furniture Model 456,Sofa,4123.23
+457,Bed Model 457,Wardrobe,4519.86
+458,Office Furniture Model 458,Study Desk,3794.58
+459,Office Furniture Model 459,Wardrobe,4484.76
+460,Bed Model 460,Wardrobe,6002.74
+461,Dining Table Model 461,Wardrobe,1127.29
+462,Bar Stool Model 462,Bar Stool,8628.82
+463,Dining Table Model 463,Sofa,9297.28
+464,Bed Model 464,Sofa,5954.77
+465,Bar Stool Model 465,Bar Stool,3412.19
+466,Bed Model 466,Sofa,9912.15
+467,Dining Table Model 467,Office Furniture,4448.75
+468,Wardrobe Model 468,Dining Table,7242.9
+469,Dining Table Model 469,Study Desk,7209.57
+470,Office Furniture Model 470,Sofa,4908.78
+471,Sofa Model 471,Wardrobe,2792.42
+472,Bed Model 472,Dining Table,9699.21
+473,Wardrobe Model 473,Study Desk,1573.22
+474,Sofa Model 474,Bed,5366.34
+475,Study Desk Model 475,Sofa,2986.58
+476,Dining Table Model 476,Bed,3645.77
+477,Bar Stool Model 477,Bed,8456.75
+478,Bar Stool Model 478,Office Furniture,4305.39
+479,Sofa Model 479,Bed,1750.13
+480,Sofa Model 480,Wardrobe,2766.78
+481,Dining Table Model 481,Dining Table,8743.36
+482,Bed Model 482,Study Desk,9793.26
+483,Office Furniture Model 483,Office Furniture,3411.84
+484,Bed Model 484,Dining Table,7078.68
+485,Wardrobe Model 485,Study Desk,1730.79
+486,Sofa Model 486,Sofa,7511.19
+487,Wardrobe Model 487,Sofa,4747.93
+488,Dining Table Model 488,Study Desk,9263.44
+489,Bar Stool Model 489,Dining Table,3803.83
+490,Bed Model 490,Office Furniture,9473.2
+491,Bed Model 491,Office Furniture,5529.23
+492,Bar Stool Model 492,Dining Table,4140.04
+493,Bar Stool Model 493,Bed,6823.18
+494,Bar Stool Model 494,Bar Stool,3247.72
+495,Bar Stool Model 495,Dining Table,3067.87
+496,Study Desk Model 496,Bed,2767.12
+497,Bar Stool Model 497,Bed,9639.1
+498,Sofa Model 498,Wardrobe,5436.22
+499,Sofa Model 499,Wardrobe,7764.53
+500,Bar Stool Model 500,Dining Table,5265.93
